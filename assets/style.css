@@ -47,7 +47,8 @@ p{
     justify-content: center;
 }
 
-.figure img{
+.figure video{
+    margin-top: 3em;
     border-radius: 10px;
     width: 100%;
 }
